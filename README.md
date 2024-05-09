@@ -1,16 +1,12 @@
-# phase1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![car rent app](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/6e53b52a-a1e4-46cb-98f1-8fb9d73f8312)
+![splash screens](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/4501fa81-20da-4cb2-a608-db976f2ce177)
+![welcome screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/6a3ae2c5-feca-4e19-b186-d2c57246057c)
+![login screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/38a89248-6dce-433b-b122-016ee2923a3e)
+![sign up screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/531f2abb-ec65-4b2b-bd6c-31de5d294acd)
+![add car screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/80c653f9-9586-439d-9f7a-6a8c63453583)
+![home screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/e7efe951-ed6f-4411-9fcf-1f98be27c826)
+![car details screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/b220318b-4140-4357-9e6f-f5d23e49c4c2)
+![payment screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/407d74b8-0090-4f29-b23e-40f96082807b)
+![profile screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/98b46981-2ff1-47e9-b7a3-753ad39c4305)
+![feedback screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/6f31fb2e-93ba-4aaa-9dcb-dbfd60a66fe7)
+![settings screen](https://github.com/Kermina-Wasfy/Car-rent.github.io/assets/161367646/c901c6ab-f6e6-4de8-859e-7cb6de5951dc)
